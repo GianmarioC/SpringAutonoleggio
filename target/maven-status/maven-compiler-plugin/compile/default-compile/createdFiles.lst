@@ -1,0 +1,15 @@
+com\gruppo1\noleggio\controller\AutoController.class
+com\gruppo1\noleggio\repos\AutoRepo.class
+com\gruppo1\noleggio\service\AutoService.class
+com\gruppo1\noleggio\ProgettoApplication.class
+com\gruppo1\noleggio\service\UtentiService.class
+com\gruppo1\noleggio\repos\UtentiRepo.class
+com\gruppo1\noleggio\repos\PrenotazioniRepo.class
+com\gruppo1\noleggio\controller\HomeController.class
+com\gruppo1\noleggio\controller\controllerImmagini.class
+com\gruppo1\noleggio\controller\PrenotazioniController.class
+com\gruppo1\noleggio\service\PrenotazioniService.class
+com\gruppo1\noleggio\entities\Prenotazioni.class
+com\gruppo1\noleggio\controller\UtenteController.class
+com\gruppo1\noleggio\entities\Archivio_Utenti.class
+com\gruppo1\noleggio\entities\Auto.class
